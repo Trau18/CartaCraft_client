@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 import net.minecraft.client.Minecraft;
 
 public class Start
-{
+{//MacTheZazou c'est un poney \o/
     public static void main(String[] args)
     {
         try
